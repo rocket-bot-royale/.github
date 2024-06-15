@@ -1,9 +1,4 @@
-
-<img align="left" style="width: 100px; height: auto;" src="https://i.ibb.co/Lx54CV1/image.png">
-
 An unofficial Python library for interacting with the Rocket Bot Royale game API. Provides functionalities for user authentication, account management, and more. Designed for educational purposes to explore API interactions within gaming environments.
-
-<br>
 
 ## Disclaimer
 
